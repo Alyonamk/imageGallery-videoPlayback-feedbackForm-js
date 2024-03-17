@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://alyonamk.github.io/goit-js-hw-08/", 
+  "homepage": "https://alyonamk.github.io/imageGallery-videoPlayback-feedbackForm-js/", 
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /imageGallery-videoPlayback-feedbackForm-js/"
   },
   "repository": {
     "type": "git",
